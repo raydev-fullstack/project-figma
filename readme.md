@@ -10,12 +10,8 @@
 
  <p>Placeholder serve para indicar o que deve ser colocado ali.</p>
 
-<html>
-<body>
- <input placeholder="username" type="email" name="personal-email">
-    <input placeholder="password"  type="password" name="personal-password">
-    </body>
-</html>
+<img src="./img/placeholder.png">
+<img src="./img/placeholder2.png">
 
 <h1>Erros do projeto</h1>
 
