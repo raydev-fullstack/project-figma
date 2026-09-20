@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: #E5E5E5;
+    background-color: #a3a2a2;
     font-family: "Roboto", sans-serif;
 }
 
@@ -12,8 +12,15 @@ a {
 
 .img-yoga {
     display: block;
-    margin: 195px auto 122px auto;
+    margin: 40px auto;
 }
+
+.container {
+    width: 321px;
+    height: 46px;
+    margin: 0 auto;
+}
+
 
 input {
     display: block;
@@ -23,7 +30,8 @@ input {
     border: none;
     border-radius: 10px;
     box-shadow: -4px 4px 4px rgb(0 0 0 / 9%);
-    margin: 0 auto;
+    margin: 20px auto;
+    padding-left: 18px;
 }
 
 input ::placeholder {
@@ -32,7 +40,7 @@ input ::placeholder {
     font-weight: normal;
     font-style: normal;
     line-height: 15px;
-    padding-left: 19px;
+    padding-left: 18px;
 }
 
 .input-password {
@@ -41,12 +49,14 @@ input ::placeholder {
 }
 
 .forgot-password {
+    width: 321px;
+    height: 46px;
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
     line-height: 15px;
-    color: #000000;
-    margin: 35px 0 38px 0;
+    color: #323232;
+    margin: 10px auto;
     display: block;
     text-align: right;
 
@@ -66,18 +76,19 @@ button {
     font-size: 15px;
     line-height: 18px;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .link-signup {
     display: block;
     text-align: center;
     margin-top: 21px;
-    margin-bottom: 62px ;
+    margin-bottom: 36px ;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     line-height: 18px;
-    color: #969696;
+    color: #323232;
 
 }
 
@@ -89,17 +100,18 @@ strong {
     text-align: center;
     font-style: normal;
     font-weight: 900;
-    font-size: 18px;
-    line-height: 21px;
-    color: #000000;
+    font-size: 15px;
+    line-height: 18px;
+    color: #323232;
 }
 
 .social-media {
-    text-align: center;
-    margin: 18px auto 80px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 18px 0;
 }
 
 .img-flick {
-    margin: 0 18px;
-
+   margin: 0 18px;
 }
