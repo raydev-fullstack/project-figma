@@ -1,6 +1,6 @@
 <h1>Projeto Login</h1>
 
-<img src="./img/login responsivo2.png" alt="print-login-responsivo" width="300px" height="300px">
+<img src="./img/login responsivo2.png" alt="print-login-responsivo" width="400px" height="400px">
 
 <p>(Objetivo do projeto)</p>
 
@@ -24,7 +24,7 @@
 <li>social-media container colada na borda debaixo.</li>
 </ul>
 
-<img src="./img/Erros do projeto.png" alt="print-erros">
+<img src="./img/Erros do projeto.png" alt="print-erros" width="400px" height="400px">
 
 
 <h1>Resolução dos erros</h1>
