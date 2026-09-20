@@ -1,14 +1,14 @@
 <h1>Projeto Login</h1>
 
-<img src="./img/login responsivo2.png" alt="print-login-responsivo">
+<img src="./img/login responsivo2.png" alt="print-login-responsivo" width="300px" height="300px">
 
 <p>(Objetivo do projeto)</p>
 
-<p>Aprender a construir de forma simples e dinamica uma tela de login, sem a necessidade de complexidade inicial incluindo <strong>Placeholder</strong></p>
+<p>Aprender a construir de forma simples e dinamica uma tela de login, sem a necessidade de complexidade inicial incluindo <strong>Placeholder.</strong></p>
 
 <img src="./img/Construção html.png" alt="print-construção">
 
- <p>Placeholder serve para indicar o que deve ser colocado ali.</p>
+ <h2>Placeholder serve para indicar o que deve ser colocado ali.</h2>
 
 <img src="./img/placeholder.png">
 <img src="./img/placeholder2.png">
